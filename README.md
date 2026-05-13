@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @UddipanSaikia
-- 👀 I’m interested in animation, vfx, graphics design, Blender.
-- 🌱 I’m currently learning html, css,js.prompt engineering 
+# Hi, I'm @UddipanSaikia
 
+I'm a **Graphics Designer** with a strong interest in creativity, technology, and continuous learning.
 
+## About Me
 
-<!---
-UddipanSaikia/UddipanSaikia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Passionate about **graphic design** and visual creativity
+- Currently learning **HTML, CSS, JavaScript**, and **Prompt Engineering**
+- Always curious and eager to learn new tools, skills, and creative workflows
+- Interested in combining design with web development and AI-powered creativity
+
+## Skills
+
+- Graphic Design
+- HTML
+- CSS
+- JavaScript
+- Prompt Engineering
+- Creative Thinking
+- Visual Design
+
+## Currently Learning
+
+I’m improving my web development skills and exploring how prompt engineering can support creative and design work.
+
+---
+
+Thanks for visiting my profile!
