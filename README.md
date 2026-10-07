@@ -17,9 +17,9 @@ I'm a **Graphics Designer** who enjoys creating clean, meaningful, and visually 
 - Visual Design
 - Branding
 - Creative Thinking
-- HTML
-- CSS
-- JavaScript
+- HTML(Beginner)
+- CSS(Beginner)
+- JavaScript(Beginner)
 - Prompt Engineering
 - Blender
 - DaVinci Resolve Studio
